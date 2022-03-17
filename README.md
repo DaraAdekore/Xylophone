@@ -4,4 +4,6 @@ This is a small IOS application that emulates a xylophone. The inention behind t
 
 The creation of this application is inspired by [Angela Yu](https://uk.linkedin.com/in/angela-yu-963a584b) and the [AppBrewery](https://www.appbrewery.co/p/ios-course-resources/) Develoment team
 
+<img src="image.png" width="200" height="100">
 ![alt text](https://i.imgur.com/2z657c8.png)
+</img>
